@@ -3,6 +3,7 @@ body {
 	height: 100%;
 	display: flex;
 	margin: 0;
+	background-color: #000;
 }
 
 .brown {
